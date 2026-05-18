@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "download_url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0.0/mods.zip",
+  "download_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.0/mods.zip",
   "changelog": [
     "Versão inicial do modpack (18 mods).",
-    "Fabric API 0.149.0 (MC 26.1.2)",
+    "Fabric API 0.149.0",
     "Sodium 0.8.12-beta4 — renderização otimizada",
     "Iris 1.10.9 — suporte a shaders",
     "Lithium 0.24.2 — otimizações de performance",
@@ -12,15 +12,15 @@
     "MoreCulling 1.7.0 — face culling avançado",
     "JEI 29.5.0.28 — Just Enough Items",
     "Clumps — agrupamento de orbes de XP",
-    "Entity Model Features 3.2.4 — modelos customizados",
-    "Entity Texture Features 7.1 — texturas customizadas",
-    "Cloth Config 154 — biblioteca de configurações",
-    "MouseTweaks 2.31 — melhorias no inventário",
-    "Shader Profiles 1.0.0 — perfis de shader",
-    "SkinRestorer 2.7.1 — skins em modo offline",
-    "StyledPlayerList 3.11.1 — tablist customizada",
-    "Simple Voice Chat 2.6.17 — chat de voz in-game",
-    "Neruina 3.3.1 — proteção contra crashes de entidades"
+    "Entity Model Features 3.2.4",
+    "Entity Texture Features 7.1",
+    "Cloth Config 154",
+    "MouseTweaks 2.31",
+    "Shader Profiles 1.0.0",
+    "SkinRestorer 2.7.1",
+    "StyledPlayerList 3.11.1",
+    "Simple Voice Chat 2.6.17",
+    "Neruina 3.3.1"
   ],
   "min_launcher_version": "1.0.0"
 }
