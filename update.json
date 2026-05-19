@@ -1,15 +1,17 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.1/mods.zip",
-  "resourcepack_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.1/resourcepack.zip",
+  "version": "1.0.2",
+  "download_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.2/mods.zip",
+  "resourcepack_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.2/resourcepack.zip",
   "java_msi_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9/OpenJDK25U-jdk_x64_windows_hotspot_25.0.3_9.msi",
   "changelog": [
-    "Resource packs do servidor (6 packs).",
+    "Resource packs do servidor (7 packs).",
     "3D Default 1.21.2+ | Clear Glass | Fresh Animations",
     "Nautilus3D | PureGlass | Vanilla Experience+",
-    "Versão inicial do modpack (18 mods).",
+    "Enchantment Outlines — destaque visual em itens encantados",
+    "Modpack atualizado (22 mods).",
     "Fabric API 0.149.0",
-    "Sodium 0.8.12-beta4 — renderização otimizada",
+    "Sodium 0.8.12 — renderização otimizada",
+    "Sodium Extra 0.8.7 — configurações extras do Sodium",
     "Iris 1.10.9 — suporte a shaders",
     "Lithium 0.24.2 — otimizações de performance",
     "FerriteCore 9.0.0 — redução de uso de RAM",
@@ -25,7 +27,11 @@
     "SkinRestorer 2.7.1",
     "StyledPlayerList 3.11.1",
     "Simple Voice Chat 2.6.17",
-    "Neruina 3.3.1"
+    "Neruina 3.3.1",
+    "AppleSkin 3.0.9 — info de fome e saturação",
+    "Zoomify 2.16.0 — zoom ajustável",
+    "Respackopts 26.1.2 — opções de resource pack in-game",
+    "Mod Menu 18.0.0 — menu de mods in-game"
   ],
   "min_launcher_version": "1.0.0"
 }
