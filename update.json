@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "download_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.1/mods.zip",
   "resourcepack_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.1/resourcepack.zip",
-  "java_msi_url": "https://drive.google.com/uc?export=download&id=1sJuX-isq3fnRpHa84IrUHGyZNzOk_tmj",
+  "java_msi_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9/OpenJDK25U-jdk_x64_windows_hotspot_25.0.3_9.msi",
   "changelog": [
     "Resource packs do servidor (6 packs).",
     "3D Default 1.21.2+ | Clear Glass | Fresh Animations",
