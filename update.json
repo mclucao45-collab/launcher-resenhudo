@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "download_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.1/mods.zip",
   "resourcepack_url": "https://github.com/mclucao45-collab/launcher-resenhudo/releases/download/v1.0.1/resourcepack.zip",
   "java_msi_url": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.3%2B9/OpenJDK25U-jdk_x64_windows_hotspot_25.0.3_9.msi",
@@ -29,7 +29,10 @@
     "Simple Voice Chat 2.6.17",
     "Neruina 3.3.1",
     "AppleSkin 3.0.9 — info de fome e saturação",
-    "Mod Menu 18.0.0 — menu de mods in-game"
+    "Sodium Extra 0.8.7 — configurações extras do Sodium",
+    "Respackopts 26.1.2 — opções de resource pack in-game",
+    "Mod Menu 18.0.0 — menu de mods in-game",
+    "Zoomify 2.16.0 — zoom ajustável"
   ],
   "min_launcher_version": "1.0.0"
 }
